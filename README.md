@@ -1,9 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4C1D95,50:BE185D,100:C2410C&text=Umer%20Ishtiaq&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Senior%20Web%20Developer%20%7C%20Building%20Scalable%2C%20High-Performance%20Web%20Apps&descAlignY=55&descSize=16)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&height=35&lines=Hi+there%2C+I'm+Umer+Ishtiaq;Senior+Web+Developer;Building+Scalable%2C+High-Performance+Web+Apps)
-![Experience](https://img.shields.io/badge/Experience-10%2B%20Years%20in%20Frontend%20Development-14B8A6?style=for-the-badge&labelColor=0F172A)
-![Passion](https://img.shields.io/badge/Passion-Building%20Modern%20UI%20%26%20Great%20UX-FB923C?style=for-the-badge&labelColor=0F172A)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:4C1D95,50:BE185D,100:C2410C&text=Umer%20Ishtiaq&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=28&desc=Senior%20Web%20Developer%20%7C%20Building%20Scalable%2C%20High-Performance%20Web%20Apps&descAlignY=52&descSize=16" width="750" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Umer+Ishtiaq;Senior+Web+Developer;Building+Scalable%2C+High-Performance+Web+Apps)
+![Experience](https://img.shields.io/badge/Experience-10%2B%20Years%20in%20Frontend%20Development-6B7280?style=for-the-badge&labelColor=0F172A)
+![Passion](https://img.shields.io/badge/Passion-Building%20Modern%20UI%20%26%20Great%20UX-6B7280?style=for-the-badge&labelColor=0F172A)
 
 </div>
 
@@ -65,6 +66,6 @@
 
 <div align="center">
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=115&color=0:7C3AED,50:D946EF,100:FB923C&section=footer&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=0:7C3AED,50:D946EF,100:FB923C&section=footer&animation=fadeIn" width="750" />
 
 </div>
