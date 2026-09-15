@@ -4,11 +4,16 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Umer+Ishtiaq;Senior+Web+Developer;Building+Scalable%2C+High-Performance+Web+Apps)
 
+![Experience](https://img.shields.io/badge/Experience-10%2B%20Years%20in%20Frontend%20Development-1E293B?style=for-the-badge&labelColor=0F172A)
+![Passion](https://img.shields.io/badge/Passion-Building%20Modern%20UI%20%26%20Great%20UX-1E293B?style=for-the-badge&labelColor=0F172A)
+
 </div>
 
 ---
 
 ### ⚡ Skills
+
+<div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-4F46E5?style=for-the-badge&logo=php&logoColor=white)
 ![Smarty](https://img.shields.io/badge/Smarty-6366F1?style=for-the-badge&logo=smarty&logoColor=white)
@@ -32,17 +37,33 @@
 ![Canonical & Robots](https://img.shields.io/badge/Canonical%20URLs%20%26%20Robots.txt-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Page Speed](https://img.shields.io/badge/Page%20Speed%20Optimization-A855F7?style=for-the-badge&logo=speedtest&logoColor=white)
 
+</div>
+
+---
+
 ### 🚀 Projects
+
+<div align="center">
 
 [![Boat & Yacht](https://img.shields.io/badge/Live-Boat%20%26%20Yacht-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://boat-yacht.vercel.app/)
 [![Gift Baskets](https://img.shields.io/badge/Live-Gift%20Baskets-DB2777?style=for-the-badge&logo=vercel&logoColor=white)](https://gift-baskets.vercel.app/)
 [![InternetFlorist](https://img.shields.io/badge/Live-InternetFlorist-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.internetflorist.biz/)
 [![Flowers4Spain](https://img.shields.io/badge/Live-Flowers4Spain-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.flowers4spain.com/)
 
+</div>
+
+---
+
 ### 🌐 Let's Connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D946EF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umerishtiaq1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FB923C?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.umerishtiaq.com)
+
+</div>
+
+---
 
 <div align="center">
 
