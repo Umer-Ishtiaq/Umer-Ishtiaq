@@ -1,13 +1,9 @@
-<table align="center" width="100%">
-<tr><td>
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4C1D95,50:BE185D,100:C2410C&text=Umer%20Ishtiaq&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Senior%20Web%20Developer%20%7C%20Building%20Scalable%2C%20High-Performance%20Web%20Apps&descAlignY=55&descSize=18)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&height=45&lines=Hi+there%2C+I'm+Umer+Ishtiaq;Senior+Web+Developer;Building+Scalable%2C+High-Performance+Web+Apps)
-![Experience](https://img.shields.io/badge/Experience-10%2B%20Years%20in%20Frontend%20Development-0D9488?style=for-the-badge&labelColor=0F172A)
-![Passion](https://img.shields.io/badge/Passion-Building%20Modern%20UI%20%26%20Great%20UX-F59E0B?style=for-the-badge&labelColor=0F172A)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4C1D95,50:BE185D,100:C2410C&text=Umer%20Ishtiaq&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Senior%20Web%20Developer%20%7C%20Building%20Scalable%2C%20High-Performance%20Web%20Apps&descAlignY=55&descSize=16)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&height=35&lines=Hi+there%2C+I'm+Umer+Ishtiaq;Senior+Web+Developer;Building+Scalable%2C+High-Performance+Web+Apps)
+![Experience](https://img.shields.io/badge/Experience-10%2B%20Years%20in%20Frontend%20Development-14B8A6?style=for-the-badge&labelColor=0F172A)
+![Passion](https://img.shields.io/badge/Passion-Building%20Modern%20UI%20%26%20Great%20UX-FB923C?style=for-the-badge&labelColor=0F172A)
 
 </div>
 
@@ -47,10 +43,10 @@
 
 <div align="center">
 
-[![Boat & Yacht](https://img.shields.io/badge/Live-Boat%20%26%20Yacht-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://boat-yacht.vercel.app/)
-[![Gift Baskets](https://img.shields.io/badge/Live-Gift%20Baskets-DB2777?style=for-the-badge&logo=vercel&logoColor=white)](https://gift-baskets.vercel.app/)
-[![InternetFlorist](https://img.shields.io/badge/Live-InternetFlorist-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.internetflorist.biz/)
-[![Flowers4Spain](https://img.shields.io/badge/Live-Flowers4Spain-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.flowers4spain.com/)
+[![Boat & Yacht](https://img.shields.io/badge/🚤%20Live-Boat%20%26%20Yacht-1D4ED8?style=for-the-badge)](https://boat-yacht.vercel.app/)
+[![Gift Baskets](https://img.shields.io/badge/🎁%20Live-Gift%20Baskets-DB2777?style=for-the-badge)](https://gift-baskets.vercel.app/)
+[![InternetFlorist](https://img.shields.io/badge/🌷%20Live-InternetFlorist-16A34A?style=for-the-badge)](https://www.internetflorist.biz/)
+[![Flowers4Spain](https://img.shields.io/badge/🌷%20Live-Flowers4Spain-EA580C?style=for-the-badge)](https://www.flowers4spain.com/)
 
 </div>
 
@@ -72,6 +68,3 @@
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&height=115&color=0:7C3AED,50:D946EF,100:FB923C&section=footer&animation=fadeIn)
 
 </div>
-
-</td></tr>
-</table>
